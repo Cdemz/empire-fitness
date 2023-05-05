@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaDumbbell, FaUsers, FaHardHat } from 'react-icons/fa';
-import ahero from '../assets/VideoCapture_20230430-191357.jpg';
+import ahero from '../assets/sub hero.png';
 
 const About__Us = () => {
   return (
